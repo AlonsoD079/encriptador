@@ -82,6 +82,7 @@ fieldset{
     font-size: 36px;
     line-height: 19px;
     padding: 14px;
+    margin: 0 20px;
 }
 #encriptar:hover{
     background: yellowgreen;
@@ -100,6 +101,7 @@ fieldset{
     font-size: 36px;
     line-height: 19px;
     padding: 14px;
+    margin: 0 20px;
 }
 .button_desencriptar:hover{
     background: green;
